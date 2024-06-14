@@ -93,8 +93,8 @@ The output displays each test string followed by whether it was accepted or reje
 ### Example Output
 
 ```
-aaabbb: Accepted
-aabb: Rejected
+aab: Accepted
+abb: Rejected
 ```
 
 ## License
